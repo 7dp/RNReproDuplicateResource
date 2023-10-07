@@ -36,5 +36,15 @@
   },
   "engines": {
     "node": ">=16"
+  },
+  "expo": {
+    "autolinking": {
+      "exclude": [
+        "expo-application",
+        "expo-constants",
+        "expo-file-system",
+        "expo-font"
+      ]
+    }
   }
 }
