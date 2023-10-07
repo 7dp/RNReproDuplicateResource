@@ -13,6 +13,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@notifee/react-native": "^7.8.0",
     "expo": "^49.0.0",
     "expo-updates": "~0.18.16",
     "react": "18.2.0",
