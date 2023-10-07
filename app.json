@@ -1,4 +1,18 @@
 {
   "name": "RN723",
-  "displayName": "RN723"
+  "displayName": "RN723",
+  "expo": {
+    "name": "RN723",
+    "slug": "RN723",
+    "ios": {
+      "bundleIdentifier": "com.rn723"
+    },
+    "android": {
+      "package": "com.rn723"
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "http://localhost:3000/api/manifest"
+    }
+  }
 }
