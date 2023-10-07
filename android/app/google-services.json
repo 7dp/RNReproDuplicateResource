@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672857032026",
+    "project_id": "expoupdatesrepro",
+    "storage_bucket": "expoupdatesrepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672857032026:android:e0f7b4471ee17a14e41f63",
+        "android_client_info": {
+          "package_name": "com.rn723"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV188_DAGbwjBciQsHJq_KQqVnoLrx5v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
